@@ -101,3 +101,18 @@ body {
     align-items: center;
     width: 100%;
 }
+
+
+@media (min-width: 600px) {
+    #weatherContainer {
+        width: 25%;
+    }
+
+    #form {
+        width:30%;
+    }
+
+    #sens-hum-container div {
+        width: 10%;
+    }
+}
